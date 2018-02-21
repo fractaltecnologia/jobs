@@ -50,6 +50,6 @@ Pessoa Jurídica full-time - Remoto ou Local (Escritório em João Pessoa - PB)
 
 <p align="center"><img src="https://lh6.googleusercontent.com/vl3minJL3OLwexn23x9TnWpBnnrfP3QHNZ8ti0idnDJV4JSMgNUJulzOY3XoMLPaMcCJuXD__M9_WQ=w1440-h803-rw" height="300px"/></p>
 
-<p align="center"><img src="https://lh6.googleusercontent.com/xEp1PLJckj4vNik6CKizfZS3kWF-CBoGaHLHN27fy4_ePKpUaFaiB7KtZ1CR5OG3vw92e2DWtPlWXg=w1440-h803-rw" height="300px"/></p>
+<p align="center"><img src="https://lh3.googleusercontent.com/R4BkMaZF2m9rnl0D-ydQCug1hETPAaGVqPoNZ58eSR_pE18ISPpWkKqZTtIVkiRZetLCU1yRUh_8CA=w1440-h803-rw" height="300px"/></p>
 
 <p align="center"><img src="https://lh3.googleusercontent.com/llutsq0zUyEUmEy1QJXJm1fKO_J9iKkvyqwP9NHwoOfZCvC71J72QQKZQ7QWEy-KHhzD-HMfqqgbvBKdtLG_qgFRjgnvW8cd7fXGzi34SItJJZAjz4iBaDjUKw0m7hUllebR7aJA-44=w1311-h983-no" height="300px"/></p>
