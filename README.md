@@ -42,10 +42,4 @@ Pessoa Jurídica full-time - Remoto ou Local (Escritório em João Pessoa - PB)
 
 <p align="center"><img src="https://lh3.googleusercontent.com/d10RJZ9GTy2MnVAW0q0joXYQ1nb2NvKGyZo23EulcLG2TA9aDaHIcS3emAUv7Xg_C9pu6KKnLxK-6w-R-qKoQrxNZ87QmGDRhqy06GbaJc0ZNHbZak8QTF9glkWKZj3dBnQelrC5Ca0=w1311-h983-no" height="300px"/></p>
 
-<p align="center"><img src="https://lh6.googleusercontent.com/VFowFPLutMkMzM9PZ2Z_E7B4wkFPsufqQYm1AJMojRpC0BJ_l4BBd7hcPQ_yKe32XjJCMVJRJUJrFQ=w1440-h803-rw" height="300px"/></p>
-
-<p align="center"><img src="https://lh5.googleusercontent.com/qWnfMWUnzvNlEW3RU5Xa0pHxn9k9WaWeQu5nFE_oPGMIuhtAkIjXo2TAi2lxEMaCdFeQKbG6OFhR-A=w1440-h803-rw" height="300px"/></p>
-
-<p align="center"><img src="https://lh3.googleusercontent.com/NjUgs14_Ve3r9-QRrmIVMPigk9yKM2ER5lyOQDlJnhy4JWCwl4l-KUc4z8JPp9Zx6uevQRKoNwD1oQ=w1440-h803-rw" height="300px"/></p>
-
 <p align="center"><img src="https://lh3.googleusercontent.com/llutsq0zUyEUmEy1QJXJm1fKO_J9iKkvyqwP9NHwoOfZCvC71J72QQKZQ7QWEy-KHhzD-HMfqqgbvBKdtLG_qgFRjgnvW8cd7fXGzi34SItJJZAjz4iBaDjUKw0m7hUllebR7aJA-44=w1311-h983-no" height="300px"/></p>
