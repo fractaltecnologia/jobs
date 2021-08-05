@@ -13,7 +13,7 @@ Procuramos desenvolvedores organizados, antenados em tecnologias atuais, dispost
 
 Temos um ambiente de trabalho flexível, moderno, descontraído e colaborativo onde sua opinião é importante para crescermos juntos.
 
-A Fractal é uma das maiores empresas de tecnologia do Brasil voltadas a educação, com importantes clientes e parceiros (como a Saraiva e o grupo Kroton). 
+A Fractal é uma das maiores empresas de tecnologia do Brasil voltadas a educação, com importantes clientes e parceiros. 
 
 Para mais informações, acesse o nosso site:
 http://www.fractaltecnologia.com.br
@@ -42,4 +42,3 @@ Pessoa Jurídica full-time - Remoto ou Local (Escritório em João Pessoa - PB)
 
 <p align="center"><img src="https://lh3.googleusercontent.com/d10RJZ9GTy2MnVAW0q0joXYQ1nb2NvKGyZo23EulcLG2TA9aDaHIcS3emAUv7Xg_C9pu6KKnLxK-6w-R-qKoQrxNZ87QmGDRhqy06GbaJc0ZNHbZak8QTF9glkWKZj3dBnQelrC5Ca0=w1311-h983-no" height="300px"/></p>
 
-<p align="center"><img src="https://lh3.googleusercontent.com/llutsq0zUyEUmEy1QJXJm1fKO_J9iKkvyqwP9NHwoOfZCvC71J72QQKZQ7QWEy-KHhzD-HMfqqgbvBKdtLG_qgFRjgnvW8cd7fXGzi34SItJJZAjz4iBaDjUKw0m7hUllebR7aJA-44=w1311-h983-no" height="300px"/></p>
