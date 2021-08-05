@@ -30,6 +30,7 @@ Pessoa Jurídica full-time - Remoto ou Local (Escritório em João Pessoa - PB)
 
 ## Benefícios
 
+- Preparação técnica através de cursos da plataforma Udemy
 - Bonificação de 70% do valor do plano de saúde AMIL com cobertura nacional;
 - Possibilidade de home office;
 - Horário flexível;
