@@ -1,4 +1,4 @@
-<p align="center"><img src="http://fractaltecnologia.com.br/wp-content/uploads/2017/08/logo.png" height="250px"/></p>
+<p align="center"><img src="https://fractaltecnologia.com.br/img/novas/bg-footer.png"/></p>
 
 ## Sobre o repositório
 
