@@ -1,3 +1,4 @@
+
 <p align="center"><img src="https://fractaltecnologia.com.br/img/novas/bg-footer.png"/></p>
 
 ## Sobre o repositório
@@ -5,7 +6,7 @@
 Este repositório tem como objetivo ser mais um canal de divulgação das vagas disponíveis na Fractal Tecnologia. 
 
 É possível acessar as nossas vagas disponíveis por meio do link:
-https://github.com/fractaltecnologia/jobs/issues
+<https://github.com/fractaltecnologia/jobs/issues>
 
 
 ## Sobre a Fractal Tecnologia
@@ -16,13 +17,13 @@ Temos um ambiente de trabalho flexível, moderno, descontraído e colaborativo o
 A Fractal é uma das maiores empresas de tecnologia do Brasil voltadas a educação, com importantes clientes e parceiros. 
 
 Para mais informações, acesse o nosso site:
-<a href="http://www.fractaltecnologia.com.br">http://www.fractaltecnologia.com.br</a>
+<http://www.fractaltecnologia.com.br>
 
 
 ## Como se candidatar
 
 Por favor envie um email para recrutamento@fractaltecnologia.com.br com seu CV em anexo e a descrição da vaga no assunto:
-- Por exemplo, para desenvolvedores backend nível júnior:  **Vaga Backend Dev JR**
+- Por exemplo, para desenvolvedores backend nível júnior:  **Vaga Backend Dev JR**
 - Por exemplo, para concorrer a posição de Android Dev Pleno:  **Vaga Android Dev Pleno**
 
 ## Contratação
@@ -31,7 +32,7 @@ Pessoa Jurídica full-time - Remoto ou Local (Escritório em João Pessoa - PB)
 
 ## Benefícios
 
-- Preparação técnica através de cursos da plataforma <a href="https://udemy.com">Udemy</a>
+- Preparação técnica através de cursos da plataforma [Udemy](https://udemy.com)
 - Bonificação de 70% do valor do plano de saúde AMIL com cobertura nacional;
 - Possibilidade de home office;
 - Horário flexível;
