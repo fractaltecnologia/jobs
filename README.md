@@ -37,8 +37,3 @@ Pessoa Jurídica full-time - Remoto ou Local (Escritório em João Pessoa - PB)
 - Escritório com área de lazer;
 - Ambiente de trabalho descontraído;
 - Comida! :O
-
-## Nosso novo escritório recém inaugurado em João Pessoa - PB
-
-<p align="center"><img src="https://lh3.googleusercontent.com/d10RJZ9GTy2MnVAW0q0joXYQ1nb2NvKGyZo23EulcLG2TA9aDaHIcS3emAUv7Xg_C9pu6KKnLxK-6w-R-qKoQrxNZ87QmGDRhqy06GbaJc0ZNHbZak8QTF9glkWKZj3dBnQelrC5Ca0=w1311-h983-no" height="300px"/></p>
-
