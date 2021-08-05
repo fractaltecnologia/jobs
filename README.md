@@ -16,7 +16,8 @@ Temos um ambiente de trabalho flexível, moderno, descontraído e colaborativo o
 A Fractal é uma das maiores empresas de tecnologia do Brasil voltadas a educação, com importantes clientes e parceiros. 
 
 Para mais informações, acesse o nosso site:
-http://www.fractaltecnologia.com.br
+<a href="http://www.fractaltecnologia.com.br">http://www.fractaltecnologia.com.br</a>
+
 
 ## Como se candidatar
 
@@ -30,7 +31,7 @@ Pessoa Jurídica full-time - Remoto ou Local (Escritório em João Pessoa - PB)
 
 ## Benefícios
 
-- Preparação técnica através de cursos da plataforma <a href="Https://udemy.com">Udemy</a>
+- Preparação técnica através de cursos da plataforma <a href="https://udemy.com">Udemy</a>
 - Bonificação de 70% do valor do plano de saúde AMIL com cobertura nacional;
 - Possibilidade de home office;
 - Horário flexível;
